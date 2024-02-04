@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    background-color: plum;
+}
+
+li {
+    font-size: 24px;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    padding: 10px;
+    margin: 20px auto;
+    width: 700px;
+}
+
+.title {
+    padding: 20px;
+    margin-bottom: 10px;
+    border-style: double;
+}
+
+.list {
+    padding: 20px;
+    margin: 10px;
+    background-color: pink;
+    border-radius: 100px;
+    border-color: rgb(236, 147, 69);
+    display: block;
+}
